@@ -22,4 +22,4 @@ else if(mark>=30){
 else{
   grade="F"
 }
-console.log(grade)
+console.log(`your grade is ${grade}`)
